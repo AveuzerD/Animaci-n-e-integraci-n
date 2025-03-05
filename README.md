@@ -1,2 +1,2 @@
-# Animaci-n-e-integraci-n
+# Animación-e-integración
 ...
