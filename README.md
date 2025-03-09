@@ -1,3 +1,3 @@
 # Animación-e-integración
 ...
-#Reposiotorio para creación de proyectos de animación e integración ( no tengo ni idea de qué hacer pero me vale, la mala pa ustedes)
+Reposiotorio para creación de proyectos de animación e integración ( no tengo ni idea de qué hacer pero me vale, la mala pa ustedes)
